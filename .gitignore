@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+# runtime ledgers some core modules create when imported or tested
+memory_pool/
+docs/runtime_logs/
+*.mp4
+_progress.md
